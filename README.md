@@ -4,7 +4,7 @@ A personal developer portfolio built with Next.js, React, TypeScript and Tailwin
 
 ## Featured Projects
 - The Red Pen — Brand governance and content review platform.
-- TrueVoice — Voice-focused web application.
+- TrueVoice — Content verification and creator-reviewer workflow platform.
 - Student Task Manager — Flask-based task management application.
 
 ## Tech Stack
