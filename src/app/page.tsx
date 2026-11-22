@@ -171,7 +171,7 @@ export default function Home() {
               <p>A project exploring content verification, creator-reviewer workflows and transparent records of review.</p>
             </div>
             <div className="feature-tags"><span>VERIFICATION</span><span>WORKFLOWS</span><span>TRACEABILITY</span></div>
-            <a href="https://www.thetruevoice.xyz/dashboard" target="_blank" rel="noreferrer" className="feature-link">EXPLORE PROJECT <ArrowUpRight size={17} /></a>
+            <a href="https://www.thetruevoice.xyz/dashboarddashboard" target="_blank" rel="noreferrer" className="feature-link">EXPLORE PROJECT <ArrowUpRight size={17} /></a>
           </div>
         </article>
       </section>
