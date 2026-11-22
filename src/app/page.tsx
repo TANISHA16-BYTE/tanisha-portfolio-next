@@ -13,7 +13,7 @@ const projects = [
     name: "Student Task Manager",
     category: "PYTHON / FLASK",
     description: "A student-focused application for organising tasks and everyday academic work.",
-    link: "https://github.com/TANISHA16-BYTE/Student-task-manager",
+    link: "https://student-task-manager-a1q5.onrender.com/",
     mark: "01",
   },
   {
@@ -171,7 +171,7 @@ export default function Home() {
               <p>A project exploring content verification, creator-reviewer workflows and transparent records of review.</p>
             </div>
             <div className="feature-tags"><span>VERIFICATION</span><span>WORKFLOWS</span><span>TRACEABILITY</span></div>
-            <a href="https://www.thetruevoice.xyz/" target="_blank" rel="noreferrer" className="feature-link">EXPLORE PROJECT <ArrowUpRight size={17} /></a>
+            <a href="https://www.thetruevoice.xyz/dashboard" target="_blank" rel="noreferrer" className="feature-link">EXPLORE PROJECT <ArrowUpRight size={17} /></a>
           </div>
         </article>
       </section>
