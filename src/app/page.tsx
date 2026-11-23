@@ -59,7 +59,7 @@ export default function Home() {
     <main>
       <header className="nav">
         <a href="#home" className="brand">
-          <span className="brand-symbol">tj</span>
+          <span className="brand-symbol">TJ</span>
           <span>TANISHA JAIN<span className="red-dot">.</span></span>
         </a>
         <nav>
