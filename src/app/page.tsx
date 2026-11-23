@@ -42,7 +42,7 @@ const projects = [
     name: "Developer Portfolio",
     category: "PERSONAL WEBSITE",
     description: "A personal space to document my work, learning and development journey.",
-    link: "https://tanisha16-byte.github.io/Tanisha-portfolio/",
+    link: "https://tanishajain.cv/",
     mark: "TJ",
   },
 ];
