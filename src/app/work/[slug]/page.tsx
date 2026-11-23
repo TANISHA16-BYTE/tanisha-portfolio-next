@@ -118,7 +118,7 @@ const work = {
     name: "Developer Portfolio",
     type: "PERSONAL WEBSITE",
     intro: "A personal space to document projects, learning and a developing technical identity.",
-    live: "https://tanishajain.cv/",
+    live: "https://www.tanishajain.cv/",
     problem: "A collection of projects is more meaningful when people can understand the thinking and work behind them.",
     approach: "A personal portfolio that brings together selected work, technical interests and the journey behind each project.",
     contribution: "Personal portfolio design and development.",
@@ -260,7 +260,7 @@ export async function generateMetadata({
       title: `${project.name} | Tanisha Jain`,
       description: project.intro,
       type: "article",
-      url: `https://tanishajain.cv/work/${slug}`,
+      url: `https://www.tanishajain.cv/work/${slug}`,
     },
   };
 }

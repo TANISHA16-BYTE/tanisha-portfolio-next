@@ -1,6 +1,6 @@
 import type { MetadataRoute } from "next";
 
-const siteUrl = "https://tanishajain.cv";
+const siteUrl = "https://www.tanishajain.cv";
 
 const projectSlugs = [
   "the-red-pen",
